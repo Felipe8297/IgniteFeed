@@ -23,7 +23,6 @@ yarn dev
 ```
 
 Abra [http://localhost:5173](http://localhost:5173) em seu browser para ver o resultado.
-![IgniteFeed](https://github.com/Felipe8297/IgniteFeed/assets/60430412/c2b4d567-749e-407c-a251-1a0d50ab6d18)
 
 ## 🚀 Tecnologias
 
@@ -33,6 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ReactJs
 - Typescript
 
-## Preview Desktop 
+## Preview
 
-![Projeto finance](/github/IgniteFeed.png)
+![IgniteFeed](https://github.com/Felipe8297/IgniteFeed/assets/60430412/c2b4d567-749e-407c-a251-1a0d50ab6d18)
